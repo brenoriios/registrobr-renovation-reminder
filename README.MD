@@ -41,7 +41,7 @@ To remove a domain from the list of domains to be verified you just need to remo
 
 # How to make this script run automatically every day?
 
-To make this script run automatically every day you just need to run the script `schedule_task.ps1`. That way after 3 minutes of every logon on your system `domainRemainder.py` will run
+To make this script run automatically every day you just need to run the script `schedule_task.ps1`. That way after 3 minutes of every logon on your system `domainReminder.py` will run
 
 # **Versão em Português**
 
@@ -76,4 +76,4 @@ Para remover um domínio da lista de domínios que serão verificados você só 
 
 # Como fazer este script iniciar automaticamente todos os dias?
 
-Para fazer este script iniciar automaticamente todos os dias você só precisa executar o script `schedule_task.ps1`. Desta forma após 3 minutos de cada logon no seu sistema `domainRemainder.py` vai ser executado.
+Para fazer este script iniciar automaticamente todos os dias você só precisa executar o script `schedule_task.ps1`. Desta forma após 3 minutos de cada logon no seu sistema `domainReminder.py` vai ser executado.
